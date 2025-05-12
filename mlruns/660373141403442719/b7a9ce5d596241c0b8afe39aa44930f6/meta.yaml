@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/b7a9ce5d596241c0b8afe39aa44930f6/artifacts
+deleted_time: 1746958579527
+end_time: 1746958486985
+entry_point_name: ''
+experiment_id: '660373141403442719'
+lifecycle_stage: deleted
+run_id: b7a9ce5d596241c0b8afe39aa44930f6
+run_name: RF-Training
+run_uuid: b7a9ce5d596241c0b8afe39aa44930f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746958478389
+status: 3
+tags: []
+user_id: touka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/df804be7046342cd99f27aa70be342f9/artifacts
+deleted_time: 1745864940904
+end_time: 1745136562146
+entry_point_name: ''
+experiment_id: '660373141403442719'
+lifecycle_stage: deleted
+run_id: df804be7046342cd99f27aa70be342f9
+run_name: rumbling-trout-499
+run_uuid: df804be7046342cd99f27aa70be342f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745136562125
+status: 4
+tags: []
+user_id: touka

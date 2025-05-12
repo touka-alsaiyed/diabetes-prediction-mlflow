@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/58a9a315556c4b988262bf5362796341/artifacts
+deleted_time: 1746902561107
+end_time: 1745865814410
+entry_point_name: ''
+experiment_id: '660373141403442719'
+lifecycle_stage: deleted
+run_id: 58a9a315556c4b988262bf5362796341
+run_name: suave-yak-213
+run_uuid: 58a9a315556c4b988262bf5362796341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745865808328
+status: 3
+tags: []
+user_id: touka

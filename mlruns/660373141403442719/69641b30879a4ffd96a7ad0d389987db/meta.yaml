@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/69641b30879a4ffd96a7ad0d389987db/artifacts
+deleted_time: 1746902561154
+end_time: 1744888079053
+entry_point_name: ''
+experiment_id: '660373141403442719'
+lifecycle_stage: deleted
+run_id: 69641b30879a4ffd96a7ad0d389987db
+run_name: wise-auk-220
+run_uuid: 69641b30879a4ffd96a7ad0d389987db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744888073968
+status: 3
+tags: []
+user_id: touka

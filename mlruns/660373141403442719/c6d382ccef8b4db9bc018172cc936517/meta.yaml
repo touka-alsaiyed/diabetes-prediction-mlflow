@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/c6d382ccef8b4db9bc018172cc936517/artifacts
+deleted_time: 1746960612707
+end_time: 1746958667896
+entry_point_name: ''
+experiment_id: '660373141403442719'
+lifecycle_stage: deleted
+run_id: c6d382ccef8b4db9bc018172cc936517
+run_name: SVM-Tune-linear
+run_uuid: c6d382ccef8b4db9bc018172cc936517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746958660862
+status: 3
+tags: []
+user_id: touka

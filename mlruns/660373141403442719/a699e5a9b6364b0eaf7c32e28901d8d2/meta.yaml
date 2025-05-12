@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/a699e5a9b6364b0eaf7c32e28901d8d2/artifacts
+deleted_time: 1745864940889
+end_time: 1745136588714
+entry_point_name: ''
+experiment_id: '660373141403442719'
+lifecycle_stage: deleted
+run_id: a699e5a9b6364b0eaf7c32e28901d8d2
+run_name: resilient-calf-636
+run_uuid: a699e5a9b6364b0eaf7c32e28901d8d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745136588102
+status: 3
+tags: []
+user_id: touka

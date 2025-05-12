@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/f904827eab9945d98e55cc2e927b7ada/artifacts
+deleted_time: 1745864940874
+end_time: 1745136362655
+entry_point_name: ''
+experiment_id: '660373141403442719'
+lifecycle_stage: deleted
+run_id: f904827eab9945d98e55cc2e927b7ada
+run_name: nebulous-wasp-53
+run_uuid: f904827eab9945d98e55cc2e927b7ada
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745136362472
+status: 3
+tags: []
+user_id: touka

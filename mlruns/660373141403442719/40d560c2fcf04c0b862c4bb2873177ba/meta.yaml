@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/40d560c2fcf04c0b862c4bb2873177ba/artifacts
+deleted_time: 1746960612699
+end_time: 1746958692884
+entry_point_name: ''
+experiment_id: '660373141403442719'
+lifecycle_stage: deleted
+run_id: 40d560c2fcf04c0b862c4bb2873177ba
+run_name: SVM-Best-Tuned
+run_uuid: 40d560c2fcf04c0b862c4bb2873177ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746958688144
+status: 3
+tags: []
+user_id: touka

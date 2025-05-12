@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/8774ef27594e4eb0839131f5bfd48fa2/artifacts
+deleted_time: 1746958355009
+end_time: 1746905543290
+entry_point_name: ''
+experiment_id: '660373141403442719'
+lifecycle_stage: deleted
+run_id: 8774ef27594e4eb0839131f5bfd48fa2
+run_name: LR-Training
+run_uuid: 8774ef27594e4eb0839131f5bfd48fa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746905536180
+status: 3
+tags: []
+user_id: touka

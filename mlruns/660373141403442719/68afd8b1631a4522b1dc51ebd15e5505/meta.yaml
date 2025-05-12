@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/68afd8b1631a4522b1dc51ebd15e5505/artifacts
+deleted_time: 1746902561139
+end_time: 1745865181049
+entry_point_name: ''
+experiment_id: '660373141403442719'
+lifecycle_stage: deleted
+run_id: 68afd8b1631a4522b1dc51ebd15e5505
+run_name: selective-hare-989
+run_uuid: 68afd8b1631a4522b1dc51ebd15e5505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745865176264
+status: 3
+tags: []
+user_id: touka

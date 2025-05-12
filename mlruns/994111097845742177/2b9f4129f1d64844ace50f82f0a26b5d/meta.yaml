@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/994111097845742177/2b9f4129f1d64844ace50f82f0a26b5d/artifacts
+end_time: 1746991433215
+entry_point_name: ''
+experiment_id: '994111097845742177'
+lifecycle_stage: active
+run_id: 2b9f4129f1d64844ace50f82f0a26b5d
+run_name: User Prediction
+run_uuid: 2b9f4129f1d64844ace50f82f0a26b5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746991433169
+status: 3
+tags: []
+user_id: touka

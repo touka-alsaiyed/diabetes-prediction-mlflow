@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/45dc1d6ad6aa4c4b8d9a2ab497955e3d/artifacts
+deleted_time: 1746902561138
+end_time: 1745865186319
+entry_point_name: ''
+experiment_id: '660373141403442719'
+lifecycle_stage: deleted
+run_id: 45dc1d6ad6aa4c4b8d9a2ab497955e3d
+run_name: casual-elk-818
+run_uuid: 45dc1d6ad6aa4c4b8d9a2ab497955e3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745865181058
+status: 3
+tags: []
+user_id: touka

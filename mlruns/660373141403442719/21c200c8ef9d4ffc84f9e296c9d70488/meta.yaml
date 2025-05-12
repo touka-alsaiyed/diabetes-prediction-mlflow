@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/21c200c8ef9d4ffc84f9e296c9d70488/artifacts
+deleted_time: 1746958354986
+end_time: 1746903745868
+entry_point_name: ''
+experiment_id: '660373141403442719'
+lifecycle_stage: deleted
+run_id: 21c200c8ef9d4ffc84f9e296c9d70488
+run_name: SVM-Tune-rbf
+run_uuid: 21c200c8ef9d4ffc84f9e296c9d70488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746903740430
+status: 3
+tags: []
+user_id: touka

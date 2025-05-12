@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/fce1f2bad1f84f4c864dac7478c9e8d1/artifacts
+end_time: 1746965495914
+entry_point_name: ''
+experiment_id: '660373141403442719'
+lifecycle_stage: active
+run_id: fce1f2bad1f84f4c864dac7478c9e8d1
+run_name: LR-Tune-l2
+run_uuid: fce1f2bad1f84f4c864dac7478c9e8d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746965489747
+status: 3
+tags: []
+user_id: touka

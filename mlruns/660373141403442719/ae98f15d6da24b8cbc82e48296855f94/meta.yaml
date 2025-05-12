@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/ae98f15d6da24b8cbc82e48296855f94/artifacts
+deleted_time: 1746965458058
+end_time: 1746961290120
+entry_point_name: ''
+experiment_id: '660373141403442719'
+lifecycle_stage: deleted
+run_id: ae98f15d6da24b8cbc82e48296855f94
+run_name: LR-Baseline
+run_uuid: ae98f15d6da24b8cbc82e48296855f94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746961283043
+status: 3
+tags: []
+user_id: touka

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746965555728
+current_stage: None
+description: null
+last_updated_timestamp: 1746965555728
+name: DiabetesModel
+run_id: 350e3130e7c140c7945911ae3d563da6
+run_link: null
+source: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/350e3130e7c140c7945911ae3d563da6/artifacts/svm_model
+status: READY
+status_message: null
+storage_location: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/350e3130e7c140c7945911ae3d563da6/artifacts/svm_model
+user_id: null
+version: 4

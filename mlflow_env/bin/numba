@@ -1,0 +1,8 @@
+#!/Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlflow_env/bin/python
+# -*- coding: UTF-8 -*-
+from __future__ import print_function, division, absolute_import
+
+from numba.misc.numba_entry import main
+
+if __name__ == "__main__":
+    main()

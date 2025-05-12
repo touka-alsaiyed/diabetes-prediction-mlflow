@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/dafeb806da2945e796c55776539db41c/artifacts
+deleted_time: 1746902561105
+end_time: 1745865825382
+entry_point_name: ''
+experiment_id: '660373141403442719'
+lifecycle_stage: deleted
+run_id: dafeb806da2945e796c55776539db41c
+run_name: resilient-stork-422
+run_uuid: dafeb806da2945e796c55776539db41c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745865820004
+status: 3
+tags: []
+user_id: touka

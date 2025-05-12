@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/1dc35c3773804827a028dd4b6015fe28/artifacts
+deleted_time: 1745864940881
+end_time: 1745136363625
+entry_point_name: ''
+experiment_id: '660373141403442719'
+lifecycle_stage: deleted
+run_id: 1dc35c3773804827a028dd4b6015fe28
+run_name: nosy-calf-935
+run_uuid: 1dc35c3773804827a028dd4b6015fe28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745136363367
+status: 3
+tags: []
+user_id: touka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/2ec8e3e9ddd54bca84678a548b647509/artifacts
+deleted_time: 1746958371337
+end_time: null
+entry_point_name: ''
+experiment_id: '660373141403442719'
+lifecycle_stage: deleted
+run_id: 2ec8e3e9ddd54bca84678a548b647509
+run_name: zealous-sheep-116
+run_uuid: 2ec8e3e9ddd54bca84678a548b647509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746908021942
+status: 1
+tags: []
+user_id: touka

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/b79e84a483db4d6db2e11c482854bd6f/artifacts
+deleted_time: 1745864940890
+end_time: 1745135941946
+entry_point_name: ''
+experiment_id: '660373141403442719'
+lifecycle_stage: deleted
+run_id: b79e84a483db4d6db2e11c482854bd6f
+run_name: bedecked-stag-283
+run_uuid: b79e84a483db4d6db2e11c482854bd6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745135941873
+status: 3
+tags: []
+user_id: touka

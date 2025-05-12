@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/bf82a7f928f942fe97a642307823ecaf/artifacts
+deleted_time: 1746958354996
+end_time: 1746905574018
+entry_point_name: ''
+experiment_id: '660373141403442719'
+lifecycle_stage: deleted
+run_id: bf82a7f928f942fe97a642307823ecaf
+run_name: LR-Best-Tuned
+run_uuid: bf82a7f928f942fe97a642307823ecaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746905568822
+status: 3
+tags: []
+user_id: touka

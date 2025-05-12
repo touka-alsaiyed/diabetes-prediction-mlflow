@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/0a7ca0623e574da4a64dc800e7f00ab8/artifacts
+deleted_time: 1746960612700
+end_time: 1746958655130
+entry_point_name: ''
+experiment_id: '660373141403442719'
+lifecycle_stage: deleted
+run_id: 0a7ca0623e574da4a64dc800e7f00ab8
+run_name: SVM_Training
+run_uuid: 0a7ca0623e574da4a64dc800e7f00ab8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746958648056
+status: 3
+tags: []
+user_id: touka

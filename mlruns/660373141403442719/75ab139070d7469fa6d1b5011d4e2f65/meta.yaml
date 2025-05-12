@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/75ab139070d7469fa6d1b5011d4e2f65/artifacts
+deleted_time: 1745864940881
+end_time: 1745136588088
+entry_point_name: ''
+experiment_id: '660373141403442719'
+lifecycle_stage: deleted
+run_id: 75ab139070d7469fa6d1b5011d4e2f65
+run_name: adaptable-bass-498
+run_uuid: 75ab139070d7469fa6d1b5011d4e2f65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745136587025
+status: 3
+tags: []
+user_id: touka

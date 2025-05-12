@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/touka/Desktop/BAU/forth year/s2/AIN3009/project/Mlflow_project/mlruns/660373141403442719/0d9e2424f5b14306be225ba1522813fc/artifacts
+deleted_time: 1746958354980
+end_time: 1746905171079
+entry_point_name: ''
+experiment_id: '660373141403442719'
+lifecycle_stage: deleted
+run_id: 0d9e2424f5b14306be225ba1522813fc
+run_name: RF-Tune-100-3
+run_uuid: 0d9e2424f5b14306be225ba1522813fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746905165111
+status: 3
+tags: []
+user_id: touka
