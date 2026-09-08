@@ -21,11 +21,11 @@ An end-to-end MLOps pipeline that predicts diabetes from patient health data, bu
 - Cleaned the data by imputing invalid values — zeros in columns like Glucose, BloodPressure, SkinThickness, Insulin, BMI, and Age don't make biological sense, so they were replaced with the column median
 - Explored feature distributions and correlations before modeling
 
-![Cleaned dataset preview](images/01_data_preview.png)
+![Cleaned dataset preview](images/images/01_data_preview.png)
 
-![Feature correlation heatmap](images/02_correlation_heatmap.png)
+![Feature correlation heatmap](images/images/02_correlation_heatmap.png)
 
-![Boxplot of features after zero-replacement](images/03_eda_boxplot.png)
+![Boxplot of features after zero-replacement](images/images/03_eda_boxplot.png)
 
 ---
 
@@ -46,9 +46,9 @@ Every training session — baseline and tuned — was logged to MLflow under the
 
 Each model's best hyperparameters and performance were compared side by side using the MLflow UI.
 
-![Classification reports: tuned vs. baseline](images/04_classification_reports.png)
+![Classification reports: tuned vs. baseline](images/images/04_classification_reports.png)
 
-![Confusion matrices: tuned vs. baseline](images/05_confusion_matrices.png)
+![Confusion matrices: tuned vs. baseline](images/images/05_confusion_matrices.png)
 
 The tuned Random Forest reached **96% accuracy**, outperforming the untuned baseline (92%).
 
@@ -59,7 +59,7 @@ The tuned Random Forest reached **96% accuracy**, outperforming the untuned base
 - The best model was transitioned to the **Production** stage manually via the MLflow UI
 - Served using the `mlflow models serve` command as a REST API
 
-![MLflow model registry — production version](images/06_model_registry.png)
+![MLflow model registry — production version](images/images/06_model_registry.png)
 
 ```bash
 mlflow models serve -m "models:/DiabetesModel/Production" -p 1234 --no-conda
@@ -74,7 +74,7 @@ mlflow models serve -m "models:/DiabetesModel/Production" -p 1234 --no-conda
 - The app sends the data to the deployed MLflow model API
 - The model returns a prediction: **Diabetic** or **Not Diabetic**
 
-![Streamlit prediction app](images/07_streamlit_app.png)
+![Streamlit prediction app](images/images/07_streamlit_app.png)
 
 ```bash
 streamlit run app.py
@@ -89,7 +89,7 @@ streamlit run app.py
 - Used the MLflow UI to visualize predictions over time
 - Helped identify potential drift or imbalance in model predictions
 
-![Monitoring dashboard](images/08_monitoring_dashboard.png)
+![Monitoring dashboard](images/images/08_monitoring_dashboard.png)
 
 ---
 
